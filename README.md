@@ -1,4 +1,5 @@
-### < Hello World, I'm Vannie >
+### < Hello World, I'm Vannie > </br></br>
+
 
 <a target="_blank" href="www.linkedin.com/in/vancrist">
   <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,12 +24,14 @@
 </a>
 
 ---- 
+</br>
 
-<img src="https://i.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.webp" width="20px"> Hi, I'm Vânia Cristina, but you can call me **Vannie** on interwebs. 
+Hi, I'm Vânia Cristina, but you can call me **Vannie** on interwebs. <img src="https://i.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.webp" width="20px">
 
 A System Analyst and technology lover 💞. 
 
 In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/metal bands** 🤘, or try to get my **world domination** plan rolling 👽 (ok, the last thing is a joke... or maybe not?)
+</br>
 
 ----
 
