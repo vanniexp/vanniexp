@@ -1,7 +1,7 @@
 ### < Hello World, I'm Vannie > </br></br>
 
 
-<a target="_blank" href="www.linkedin.com/in/vancrist">
+<a target="_blank" href="https://www.linkedin.com/in/vancrist/">
   <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="http://lattes.cnpq.br/4590210213366244">
