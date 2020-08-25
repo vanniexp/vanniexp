@@ -25,18 +25,19 @@
 
 ---- 
 </br>
+<img align="right" width="400px" src="https://64.media.tumblr.com/04803a041b145da86d6bcf172c755d44/d33b97757c856a51-47/s540x810/1a71a7180d800d55e58d8bb25bc6ffa720e541c2.png" />
 
 Hi, I'm Vânia Cristina, but you can call me **Vannie** on interwebs. <img src="https://i.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.webp" width="20px">
 
 A System Analyst and technology lover 💞. 
 
 In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/metal bands** 🤘, or try to get my **world domination** plan rolling 👽 (ok, the last thing is a joke... or maybe not?)
+
+</br>
 </br>
 
 ----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> View my stats on Github 
-   
+  
 ![Vannie GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true)
 
 
