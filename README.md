@@ -25,7 +25,7 @@
 
 ---- 
 </br>
-<img align="right" width="350px" src="https://64.media.tumblr.com/04803a041b145da86d6bcf172c755d44/d33b97757c856a51-47/s540x810/1a71a7180d800d55e58d8bb25bc6ffa720e541c2.png" />
+<img align="right" width="350px" src="https://64.media.tumblr.com/dab8ecbf6e2440331f3de540595f2578/7b5985bab383cca1-c6/s540x810/45eb2a4efefe2bbc99bec3015244d284ce94a873.png" />
 
 Hi, I'm Vânia Cristina, but you can call me **Vannie** on interwebs. <img src="https://i.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.webp" width="20px">
 
@@ -38,6 +38,10 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 
 ----
   
-![Vannie GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&hide=java,html&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" />
+</a>
 
-
+<a href="https://github.com/vanniexp/vanniexp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true&line_height=27&count_private=true&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" alt="Vannie's GitHub Stats" />
+</a>
