@@ -48,7 +48,7 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 ----
   
 <a href="https://github.com/Vanniexp/Vanniexp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&hide=java,html&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&show_icons=true,html&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/vanniexp/vanniexp">
