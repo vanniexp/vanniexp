@@ -16,7 +16,7 @@
 <a target="_blank" href="https://fb.com/vanniexp">
   <img align="left" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a target="_blank" href="https://open.spotify.com/user/12160808019">
+<a href="https://open.spotify.com/user/12160808019" target="_blank">
   <img align="left" alt="Spotify" width="18px" src="https://image.flaticon.com/icons/svg/49/49097.svg" />
 </a>
 <a target="_blank" href="mailto:vaniacristina.s@live.com">
@@ -41,12 +41,9 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 ----
-  
+
 <a href="https://github.com/Vanniexp/Vanniexp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&show_icons=true,html&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" />
 </a>
@@ -54,3 +51,4 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 <a href="https://github.com/vanniexp/vanniexp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true&line_height=27&count_private=true&title_color=efbdf8&text_color=c9cacc&icon_color=912fad&bg_color=1d1f21" alt="Vannie's GitHub Stats" />
 </a>
+
