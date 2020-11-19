@@ -47,6 +47,6 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 </a>
 
 <a href="https://github.com/vanniexp/vanniexp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true&line_height=27&include_all_commits=true" alt="Vannie's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanniexp&show_icons=true&line_height=27&include_all_commits=true&hide=prs" alt="Vannie's GitHub Stats" />
 </a>
 
