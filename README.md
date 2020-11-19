@@ -43,7 +43,7 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 </br>
 
 <a href="https://github.com/Vanniexp/Vanniexp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniexp&show_icons=true&layout=compact" />
 </a>
 
 <a href="https://github.com/vanniexp/vanniexp">
