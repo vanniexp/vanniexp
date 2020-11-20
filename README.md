@@ -4,9 +4,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/vancrist/">
   <img align="left" alt="LinkedIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="http://lattes.cnpq.br/4590210213366244">
-  <img align="left" alt="Lattes" width="18px" src="http://www.bio.ufpr.br/portal/anatomia/wp-content/uploads/sites/30/2018/10/icone-lattes-150x150.png" />
-</a>
 <a target="_blank" href="https://www.behance.net/vanniexp">
   <img align="left" alt="Behance" width="18px" src="https://image.flaticon.com/icons/svg/48/48975.svg" />
 </a>
