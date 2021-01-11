@@ -37,6 +37,14 @@ In my free time I **read books** 📚, play **video-game** 🎮, listen **rock/m
 
 ----
 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanniexp/)](https://www.linkedin.com/in/vanniexp/)
+[![Behance](https://img.shields.io/badge/-Behance-black?style=flat&logo=Behance&logoColor=white&color=black&link=https://www.linkedin.com/in/vanniexp/)](https://www.linkedin.com/in/vanniexp/)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=Spotify&logoColor=white&color=black&link=https://www.linkedin.com/in/vanniexp/)](https://www.linkedin.com/in/vanniexp/)
+
+
+
+----
+
 </br>
 
 <a href="https://github.com/Vanniexp/Vanniexp">
