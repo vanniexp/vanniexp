@@ -12,11 +12,11 @@
 
 - 📝 I'm studying React, Typescript, VueJS, Angular, Materialize and other frontend tools.
 
-</br>
+</br></br></br>
 
 ----
-Find me: </br>
-
+<h3>Let's connect:</h3>
+ 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:vaniacristina.s@live.com)](mailto:vaniacristina.s@live.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:vaniacristinast@gmail.com)](mailto:vaniacristinast@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanniexp/)](https://www.linkedin.com/in/vanniexp/)
