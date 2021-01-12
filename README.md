@@ -24,6 +24,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-AA00FF?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/vanniexp/)](https://www.instagram.com/vanniexp/)
 [![Spotify](https://img.shields.io/badge/-Spotify-52AA61?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/12160808019)](https://open.spotify.com/user/12160808019)
 [![Playstation Tag](https://img.shields.io/badge/-Playstation-003791?style=flat&logo=Playstation&logoColor=white&link=https://my.playstation.com/profile/vanniexp)](https://my.playstation.com/profile/vanniexp)
-[![Steam](https://img.shields.io/badge/-Steam-1E1E1E?style=flat&logo=Steam&logoColor=white&link=https://open.spotify.com/user/12160808019)](https://open.spotify.com/user/12160808019)
+[![Steam](https://img.shields.io/badge/-Steam-1E1E1E?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/vanniexp/)](https://steamcommunity.com/id/vanniexp/)
 
 
