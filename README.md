@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Vannie 👩🏻‍💻</h1>
+<h1 align="center">Hi! I'm Vannie👩🏻‍💻</h1>
 <h3 align="center">UX/UI Design & Frontend Dev</h3>
 
 </br>
