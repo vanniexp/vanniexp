@@ -6,7 +6,7 @@
 
 - 🤘 Hi, I'm Vânia Cristina, but you can call me Vannie on interwebs
 
-- 💞 A technology lover
+- 💞 Passionate about creating beautiful & useful things
 
 - 🔭 I’m currently working at [Maxinst](https://maxinst.com.br/)
 
