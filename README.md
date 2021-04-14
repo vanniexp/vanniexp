@@ -8,8 +8,6 @@
 
 - 💞 Passionate about creating beautiful & useful things
 
-- 📝 I'm studying React, Typescript, VueJS, Angular, Materialize and other frontend tools.
-
 </br></br></br>
 
 ----
