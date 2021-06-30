@@ -1,11 +1,25 @@
-<h1 align="center">Hi! I'm Vannie👩🏻‍💻</h1>
-</br>
-<img align="right" width="280px" src="https://64.media.tumblr.com/dab8ecbf6e2440331f3de540595f2578/7b5985bab383cca1-c6/s540x810/45eb2a4efefe2bbc99bec3015244d284ce94a873.png" />
+<img align="right" width="300px" src="https://64.media.tumblr.com/dab8ecbf6e2440331f3de540595f2578/7b5985bab383cca1-c6/s540x810/45eb2a4efefe2bbc99bec3015244d284ce94a873.png" />
 
- Hi, I'm Vânia Cristina, but you can call me *Vannie* on interwebs 🤘 <br>
- A computer engineer and product designer with a big passionate about creating beautiful and useful things.
+<div align="center">
+ <h1> 
+   hello :D
+ </h1>
 
+ Hi, I'm Vânia Cristina, but you can call me *Vannie*. A computer engineer and product designer with a big passionate about creating beautiful and useful things.
+ 
+ <br>
+
+<p align="center">
+  <!--
+  <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655023-a78d9100-d125-11eb-89b8-f006041d9d4a.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655062-094dfb00-d126-11eb-963a-44b2ef1528f2.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp; 
+-->
+</p>
 </br></br></br>
+</div>
 
 ----
 <h3>Let's connect:</h3>
