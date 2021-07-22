@@ -14,8 +14,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vaniacristinast@gmail.com)](mailto:vaniacristinast@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanniexp/)](https://www.linkedin.com/in/vanniexp/)
 [![Behance](https://img.shields.io/badge/-Behance-3F3F3F?style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/vanniexp)](https://www.behance.net/vanniexp)
-[![Spotify](https://img.shields.io/badge/-Spotify-52AA61?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/12160808019)](https://open.spotify.com/user/12160808019)
-
 </div>
 
 
