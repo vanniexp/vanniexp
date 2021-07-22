@@ -6,7 +6,6 @@
  </h1>
 
  Hi, I'm Vânia Cristina, but you can call me *Vannie*. A computer engineer and product designer with a big passionate for create beautiful and useful things.
- Ping me about web design, frontend, ux tools, diversity & inclusion, mentorship
 <br>
  
  <h3>Let's connect:</h3>
